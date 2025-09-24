@@ -22,7 +22,7 @@ Visit [Binance Testnet](https://testnet.binancefuture.com) and create API creden
 
 ```bash
 # Clone and navigate to project
-git clone <your-repo-url>
+git clone https://github.com/Ayushd785/tradingBot
 cd tradingBot
 
 # Create virtual environment

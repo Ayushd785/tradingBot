@@ -1,9 +1,7 @@
-# trading_bot/cli.py
 import argparse
 from .bot import BasicBot
 
 def run():
-    """Parses command-line arguments and executes the corresponding bot action."""
     parser = argparse.ArgumentParser(description="A simplified Binance trading bot.")
     
     parser.add_argument("order_type", help="Type of order", choices=['market', 'limit', 'stop-limit'])

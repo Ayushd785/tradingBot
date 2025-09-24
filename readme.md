@@ -4,13 +4,13 @@ A Python command-line trading bot for automated order placement on Binance Futur
 
 ## Features
 
-- **Market Orders**: Instant buy/sell execution at current market price
-- **Limit Orders**: Place orders at specific price levels
-- **Stop-Limit Orders**: Advanced orders with trigger conditions _(bonus feature)_
-- **CLI Interface**: User-friendly command-line interface with input validation
-- **Logging**: Complete API request/response logging for transparency
-- **Error Handling**: Robust error management with detailed feedback
-- **Testnet Safe**: Uses Binance Testnet for risk-free testing
+- Market Orders: Instant buy/sell execution at current market price
+- Limit Orders: Place orders at specific price levels
+- Stop-Limit Orders: Advanced orders with trigger conditions (bonus feature)
+- CLI Interface: User-friendly command-line interface with input validation
+- Logging: Complete API request/response logging for transparency
+- Error Handling: Robust error management with detailed feedback
+- Testnet Safe: Uses Binance Testnet for risk-free testing
 
 ## Setup
 
